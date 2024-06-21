@@ -1,0 +1,29 @@
+h1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: antiquewhite;
+}
+h3{
+    color: rgb(89,78,69);
+}
+#sideImg{
+    width: 100%;
+}
+#colorSide{
+    padding: 0px;
+}
+#register{
+    background-color: antiquewhite;
+    color: rgb(89,78,69);
+}
+#register:hover{
+    background-color: rgb(89,78,69);
+    color: antiquewhite;
+}
+.form-control{
+    border-color: rgb(89,78,69);
+}
+label{
+    color: rgb(89,78,69);
+}
